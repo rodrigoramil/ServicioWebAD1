@@ -28,7 +28,7 @@ Para añadir una palabra al fichero _.txt_, que se crea automáticamente en la r
 - `127.0.0.1:1234/almacena?palabra`
 - `localhost:1234/almacena?palabra`
 
-![ejemplo de almacenar una palabra](https://github.com/rodrigoramil/ServicioWebAD1/blob/master/img/almacena.png)
+![ejemplo de almacenar una palabra](https://raw.githubusercontent.com/rodrigoramil/ServicioWebAD1/img/almacena.png)
 
 ---
 
@@ -39,7 +39,7 @@ Para consultar si la palabra introducida por el usuario ya se encuentra almacena
 - `127.0.0.1:1234/consulta?palabra`
 - `localhost:1234/consulta?palabra`
 
-![ejemplo de consultar una palabra](https://github.com/rodrigoramil/ServicioWebAD1/blob/master/img/consulta.png)
+![ejemplo de consultar una palabra](https://raw.githubusercontent.com/rodrigoramil/ServicioWebAD1/img/consulta.png)
 
 ---
 
@@ -47,5 +47,5 @@ Para consultar si la palabra introducida por el usuario ya se encuentra almacena
 
 Si introducimos mal en la barra de direcciones alguno de los comandos indicados con anterioridad, obtendremos un mensaje en el navegador indicado como debemos realizar correctamente la sentencia de consulta o almacenaje.
 
-![ejemplo de estructura incorrecta](https://github.com/rodrigoramil/ServicioWebAD1/blob/master/img/estructuraIncorrecta.png)
+![ejemplo de estructura incorrecta](https://raw.githubusercontent.com/rodrigoramil/ServicioWebAD1/img/estructuraIncorrecta.png)
 # servicioWeb_AD1
